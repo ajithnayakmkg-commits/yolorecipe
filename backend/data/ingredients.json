@@ -1,0 +1,4227 @@
+{
+  "synonyms": {
+    "brinjal": "eggplant",
+    "aubergine": "eggplant",
+    "capsicum": "capsicum",
+    "bell pepper": "capsicum",
+    "green pepper": "capsicum",
+    "coriander leaves": "coriander",
+    "cilantro": "coriander",
+    "dhania": "coriander",
+    "curd": "yogurt",
+    "dahi": "yogurt",
+    "yoghurt": "yogurt",
+    "cottage cheese": "paneer",
+    "aloo": "potato",
+    "potatoes": "potato",
+    "tomatoes": "tomato",
+    "onions": "onion",
+    "pyaz": "onion",
+    "eggs": "egg",
+    "anda": "egg",
+    "chikki peas": "chickpeas",
+    "chana": "chickpeas",
+    "kabuli chana": "chickpeas",
+    "garbanzo": "chickpeas",
+    "rajma": "kidney beans",
+    "arhar dal": "toor dal",
+    "tur dal": "toor dal",
+    "pigeon pea": "toor dal",
+    "palak": "spinach",
+    "gobi": "cauliflower",
+    "patta gobi": "cabbage",
+    "gajar": "carrot",
+    "bhindi": "okra",
+    "lady finger": "okra",
+    "rava": "semolina",
+    "sooji": "semolina",
+    "suji": "semolina",
+    "atta": "wheat flour",
+    "maida": "refined flour",
+    "green chillies": "green chilli",
+    "chilli": "green chilli",
+    "mirchi": "green chilli",
+    "scallion": "spring onion",
+    "green onion": "spring onion",
+    "mushrooms": "mushroom",
+    "button mushroom": "mushroom",
+    "chicken breast": "chicken",
+    "chicken thigh": "chicken",
+    "murgh": "chicken",
+    "fish fillet": "fish",
+    "prawns": "prawn",
+    "shrimp": "prawn",
+    "nimbu": "lemon",
+    "lime": "lemon",
+    "bananas": "banana",
+    "kela": "banana",
+    "apples": "apple",
+    "seb": "apple",
+    "oranges": "orange",
+    "malta": "orange",
+    "cheese slice": "cheese",
+    "mozzarella": "cheese",
+    "cheddar": "cheese",
+    "milk packet": "milk",
+    "ghee": "butter",
+    "cooking oil": "oil",
+    "sunflower oil": "oil",
+    "refined oil": "oil",
+    "extra virgin olive oil": "olive oil",
+    "macaroni": "pasta",
+    "penne": "pasta",
+    "spaghetti": "pasta",
+    "noodles": "pasta",
+    "bread slices": "bread",
+    "loaf": "bread",
+    "corn": "sweet corn",
+    "makai": "sweet corn",
+    "matar": "peas",
+    "green peas": "peas",
+    "kheera": "cucumber",
+    "salad leaves": "lettuce",
+    "imli": "tamarind",
+    "kadi patta": "curry leaves",
+    "adrak": "ginger",
+    "lehsun": "garlic",
+    "jeera": "cumin",
+    "badam": "almonds",
+    "kaju": "cashew",
+    "moongphali": "peanuts",
+    "groundnut": "peanuts",
+    "shahad": "honey",
+    "nariyal": "coconut",
+    "groundnuts": "peanuts"
+  },
+  "substitutions": {
+    "paneer": [
+      "tofu",
+      "halloumi"
+    ],
+    "butter": [
+      "oil",
+      "ghee"
+    ],
+    "oil": [
+      "butter",
+      "olive oil"
+    ],
+    "olive oil": [
+      "oil"
+    ],
+    "milk": [
+      "curd diluted with water",
+      "coconut milk"
+    ],
+    "cream": [
+      "milk with butter",
+      "cashew paste"
+    ],
+    "yogurt": [
+      "lemon juice with water",
+      "buttermilk"
+    ],
+    "chicken": [
+      "paneer",
+      "mushroom",
+      "soya chunks"
+    ],
+    "fish": [
+      "chicken",
+      "paneer"
+    ],
+    "egg": [
+      "mashed banana (in batters)",
+      "curd (in batters)"
+    ],
+    "lemon": [
+      "vinegar",
+      "tamarind"
+    ],
+    "tamarind": [
+      "lemon juice",
+      "tomato"
+    ],
+    "spring onion": [
+      "onion",
+      "coriander"
+    ],
+    "capsicum": [
+      "cabbage",
+      "carrot"
+    ],
+    "cheese": [
+      "paneer"
+    ],
+    "wheat flour": [
+      "refined flour",
+      "oats flour"
+    ],
+    "semolina": [
+      "broken wheat",
+      "oats"
+    ],
+    "rice": [
+      "quinoa",
+      "broken wheat"
+    ],
+    "pasta": [
+      "noodles"
+    ],
+    "toor dal": [
+      "moong dal",
+      "masoor dal"
+    ],
+    "chickpeas": [
+      "kidney beans",
+      "white peas"
+    ],
+    "kidney beans": [
+      "chickpeas",
+      "black beans"
+    ],
+    "coconut": [
+      "cashew paste"
+    ],
+    "honey": [
+      "sugar",
+      "jaggery"
+    ],
+    "peanuts": [
+      "cashew",
+      "almonds"
+    ]
+  },
+  "staples": [
+    "baking powder",
+    "chilli powder",
+    "coriander powder",
+    "cumin",
+    "garam masala",
+    "mustard seeds",
+    "oil",
+    "pepper",
+    "salt",
+    "sugar",
+    "turmeric",
+    "water"
+  ],
+  "categories": {
+    "vegetable": [
+      "bean sprouts",
+      "beans",
+      "bell pepper",
+      "black beans",
+      "black pepper",
+      "bottle gourd",
+      "cabbage",
+      "capsicum",
+      "carrot",
+      "cauliflower",
+      "cucumber",
+      "eggplant",
+      "fried onion",
+      "green beans",
+      "green peas",
+      "lettuce",
+      "mushroom",
+      "onion",
+      "peas",
+      "potato",
+      "sichuan pepper",
+      "spinach",
+      "spring onion",
+      "sprouted moth beans",
+      "sweet corn",
+      "tomato",
+      "white pepper",
+      "zucchini",
+      "okra",
+      "broccoli",
+      "gourd",
+      "celery",
+      "leek",
+      "pepper",
+      "soybeans",
+      "cowpeas"
+    ],
+    "fruit": [
+      "apple",
+      "avocado",
+      "banana",
+      "coconut",
+      "lemon",
+      "lemongrass",
+      "lime",
+      "olive",
+      "olive oil",
+      "orange",
+      "pomegranate",
+      "papaya",
+      "mango",
+      "grapes",
+      "watermelon",
+      "muskmelon",
+      "pineapple",
+      "strawberry",
+      "blueberry",
+      "raspberry",
+      "blackberry",
+      "cranberry",
+      "mangosteen",
+      "grapefruit",
+      "gooseberry",
+      "mulberry",
+      "elderberry",
+      "boysenberry",
+      "melon"
+    ],
+    "protein": [
+      "beef",
+      "chicken",
+      "chicken stock",
+      "chickpeas",
+      "egg",
+      "fish",
+      "fish sauce",
+      "ground beef",
+      "ground lamb",
+      "ground pork",
+      "kidney beans",
+      "mutton",
+      "paneer",
+      "prawn",
+      "shrimp",
+      "tofu",
+      "toor dal",
+      "meat"
+    ],
+    "dairy": [
+      "butter",
+      "cheese",
+      "coconut milk",
+      "cream",
+      "feta",
+      "ghee",
+      "gruyere cheese",
+      "milk",
+      "mozzarella",
+      "parmesan",
+      "peanut butter",
+      "yogurt",
+      "buttermilk",
+      "ricotta"
+    ],
+    "grain": [
+      "arborio rice",
+      "basmati rice",
+      "bread",
+      "chickpea flour",
+      "corn flour",
+      "corn tortilla",
+      "dosa rice",
+      "flattened rice",
+      "flour",
+      "flour tortilla",
+      "idli rice",
+      "noodles",
+      "oats",
+      "pasta",
+      "pita bread",
+      "refined flour",
+      "rice",
+      "rice flour",
+      "rice noodles",
+      "rice vinegar",
+      "semolina",
+      "short grain rice",
+      "sushi rice",
+      "wheat flour",
+      "breadfruit",
+      "couscous",
+      "bulgur",
+      "quinoa",
+      "millet",
+      "barley",
+      "breadcrumbs",
+      "tortillas",
+      "tortilla",
+      "naan",
+      "roti"
+    ],
+    "other": [
+      "almonds",
+      "balsamic vinegar",
+      "basil",
+      "bechamel",
+      "black gram",
+      "bonito flakes",
+      "cardamom",
+      "cashew",
+      "chia seeds",
+      "chilli",
+      "chilli flakes",
+      "chilli powder",
+      "cilantro",
+      "cinnamon",
+      "coriander",
+      "corn starch",
+      "cumin",
+      "curry leaves",
+      "dashi",
+      "doubanjiang",
+      "drumstick",
+      "farsan",
+      "fennel",
+      "fenugreek",
+      "fenugreek leaves",
+      "galangal",
+      "garam masala",
+      "garlic",
+      "ginger",
+      "gochujang",
+      "green chilli",
+      "green curry paste",
+      "ham",
+      "honey",
+      "jaggery",
+      "jalapeno",
+      "mayonnaise",
+      "mint",
+      "mirin",
+      "miso paste",
+      "moong dal",
+      "mustard",
+      "mustard greens",
+      "mustard seeds",
+      "nori",
+      "oil",
+      "oregano",
+      "paprika",
+      "parsley",
+      "peanuts",
+      "pear",
+      "pine nuts",
+      "pizza dough",
+      "red chilli",
+      "saffron",
+      "salsa",
+      "salt",
+      "sesame",
+      "sesame oil",
+      "sesame seeds",
+      "shallot",
+      "sherry vinegar",
+      "soy sauce",
+      "spaghetti",
+      "spring roll wrappers",
+      "sugar",
+      "tahini",
+      "tamarind",
+      "tapioca pearls",
+      "thyme",
+      "tomatillo",
+      "turmeric",
+      "urad dal",
+      "vegetable stock",
+      "wakame",
+      "spring",
+      "sweet",
+      "corn",
+      "beetroot",
+      "radish",
+      "turnip",
+      "pumpkin",
+      "bottle",
+      "ridge",
+      "bitter",
+      "snake",
+      "ash",
+      "green",
+      "french",
+      "cluster",
+      "broad",
+      "lima",
+      "snow",
+      "asparagus",
+      "artichoke",
+      "bulb",
+      "kale",
+      "collard",
+      "greens",
+      "swiss",
+      "chard",
+      "beet",
+      "watercress",
+      "arugula",
+      "rocket",
+      "bok",
+      "choy",
+      "napa",
+      "red",
+      "brussels",
+      "sprouts",
+      "hearts",
+      "yam",
+      "cassava",
+      "taro",
+      "colocasia",
+      "plantain",
+      "raw",
+      "jackfruit",
+      "lotus",
+      "root",
+      "bamboo",
+      "shoots",
+      "water",
+      "chestnut",
+      "jicama",
+      "parsnip",
+      "rutabaga",
+      "celeriac",
+      "pearl",
+      "white",
+      "horseradish",
+      "wasabi",
+      "daikon",
+      "kohlrabi",
+      "chayote",
+      "serrano",
+      "poblano",
+      "habanero",
+      "thai",
+      "bird",
+      "eye",
+      "anaheim",
+      "chipotle",
+      "baby",
+      "of",
+      "palm",
+      "shoot",
+      "guava",
+      "peach",
+      "plum",
+      "apricot",
+      "nectarine",
+      "kiwi",
+      "cherry",
+      "fig",
+      "date",
+      "raisin",
+      "prune",
+      "fruit",
+      "passion",
+      "dragon",
+      "star",
+      "lychee",
+      "longan",
+      "rambutan",
+      "durian",
+      "persimmon",
+      "tangerine",
+      "mandarin",
+      "clementine",
+      "pomelo",
+      "kumquat",
+      "cape",
+      "currant",
+      "soursop",
+      "custard",
+      "sapodilla",
+      "chikoo",
+      "amla",
+      "indian",
+      "jamun",
+      "kokum",
+      "wood",
+      "bael",
+      "basmati",
+      "jasmine",
+      "brown",
+      "sushi",
+      "arborio",
+      "short",
+      "grain",
+      "wild",
+      "black",
+      "dosa",
+      "idli",
+      "parboiled",
+      "flattened",
+      "puffed",
+      "flakes",
+      "vermicelli",
+      "soba",
+      "udon",
+      "ramen",
+      "macaroni",
+      "penne",
+      "fusilli",
+      "farfalle",
+      "linguine",
+      "lasagna",
+      "sheets",
+      "foxtail",
+      "finger",
+      "sorghum",
+      "rolled",
+      "steel",
+      "cut",
+      "buckwheat",
+      "amaranth",
+      "cornmeal",
+      "polenta",
+      "rye",
+      "wheat",
+      "whole",
+      "all",
+      "purpose",
+      "refined",
+      "chickpea",
+      "starch",
+      "tapioca",
+      "arrowroot",
+      "almond",
+      "oat",
+      "multigrain",
+      "gram",
+      "maida",
+      "atta",
+      "panko",
+      "pita",
+      "chapati",
+      "paratha",
+      "kulcha",
+      "focaccia",
+      "pizza",
+      "dough",
+      "sourdough",
+      "brioche",
+      "burger",
+      "bun",
+      "bagel",
+      "croissant",
+      "toor",
+      "dal",
+      "moong",
+      "yellow",
+      "masoor",
+      "lentils",
+      "urad",
+      "chana",
+      "split",
+      "kidney",
+      "pinto",
+      "navy",
+      "cannellini",
+      "mung",
+      "adzuki",
+      "fava",
+      "edamame",
+      "sprouted",
+      "moth",
+      "horse",
+      "pigeon",
+      "eyed",
+      "pistachio",
+      "walnut",
+      "pecan",
+      "hazelnut",
+      "macadamia",
+      "brazil",
+      "nuts",
+      "pine",
+      "chestnuts",
+      "sunflower",
+      "seeds",
+      "chia",
+      "flax",
+      "hemp",
+      "poppy",
+      "nigella",
+      "caraway",
+      "ajwain",
+      "fox",
+      "makhana",
+      "rock",
+      "smoked",
+      "cayenne",
+      "chili",
+      "powder",
+      "garam",
+      "masala",
+      "curry",
+      "cassia",
+      "cloves",
+      "nutmeg",
+      "mace",
+      "anise",
+      "bay",
+      "leaf",
+      "leaves",
+      "dill",
+      "rosemary",
+      "sage",
+      "tarragon",
+      "marjoram",
+      "chives",
+      "kaffir",
+      "kasuri",
+      "methi",
+      "dried",
+      "sumac",
+      "zaatar",
+      "allspice",
+      "juniper",
+      "berries",
+      "asafoetida",
+      "hing",
+      "amchur",
+      "chaat",
+      "sambar",
+      "rasam",
+      "biryani",
+      "pav",
+      "bhaji",
+      "tandoori",
+      "kitchen",
+      "king",
+      "chai",
+      "five",
+      "spice",
+      "sichuan",
+      "gochugaru",
+      "skim",
+      "condensed",
+      "evaporated",
+      "greek",
+      "hung",
+      "curd",
+      "sour",
+      "heavy",
+      "whipping",
+      "cultured",
+      "clarified",
+      "cottage",
+      "cheddar",
+      "gouda",
+      "gruyere",
+      "mascarpone",
+      "blue",
+      "brie",
+      "camembert",
+      "halloumi",
+      "provolone",
+      "processed",
+      "curds",
+      "kefir",
+      "labneh",
+      "breast",
+      "thigh"
+    ]
+  },
+  "shelf_life_days": {
+    "spinach": 3,
+    "coriander": 3,
+    "lettuce": 4,
+    "mushroom": 4,
+    "banana": 5,
+    "tomato": 6,
+    "milk": 3,
+    "fish": 2,
+    "chicken": 2,
+    "paneer": 5,
+    "yogurt": 6,
+    "bread": 4,
+    "cucumber": 6,
+    "capsicum": 8,
+    "cabbage": 10,
+    "carrot": 12,
+    "apple": 15,
+    "orange": 12,
+    "potato": 25,
+    "onion": 30,
+    "egg": 21,
+    "rice": 180,
+    "oats": 180,
+    "pasta": 240,
+    "oil": 240,
+    "wheat flour": 120,
+    "almonds": 30,
+    "arborio rice": 30,
+    "avocado": 30,
+    "balsamic vinegar": 30,
+    "basil": 30,
+    "basmati rice": 30,
+    "bean sprouts": 30,
+    "beans": 30,
+    "bechamel": 30,
+    "beef": 30,
+    "bell pepper": 30,
+    "black beans": 30,
+    "black gram": 30,
+    "black pepper": 30,
+    "bonito flakes": 30,
+    "bottle gourd": 30,
+    "butter": 30,
+    "cardamom": 30,
+    "cashew": 30,
+    "cauliflower": 30,
+    "cheese": 30,
+    "chia seeds": 30,
+    "chicken stock": 30,
+    "chickpea flour": 30,
+    "chickpeas": 30,
+    "chilli": 30,
+    "chilli flakes": 30,
+    "chilli powder": 30,
+    "cilantro": 30,
+    "cinnamon": 30,
+    "coconut": 30,
+    "coconut milk": 30,
+    "corn flour": 30,
+    "corn starch": 30,
+    "corn tortilla": 30,
+    "cream": 30,
+    "cumin": 30,
+    "curry leaves": 30,
+    "dashi": 30,
+    "dosa rice": 30,
+    "doubanjiang": 30,
+    "drumstick": 30,
+    "eggplant": 30,
+    "farsan": 30,
+    "fennel": 30,
+    "fenugreek": 30,
+    "fenugreek leaves": 30,
+    "feta": 30,
+    "fish sauce": 30,
+    "flattened rice": 30,
+    "flour": 30,
+    "flour tortilla": 30,
+    "fried onion": 30,
+    "galangal": 30,
+    "garam masala": 30,
+    "garlic": 30,
+    "ghee": 30,
+    "ginger": 30,
+    "gochujang": 30,
+    "green beans": 30,
+    "green chilli": 30,
+    "green curry paste": 30,
+    "green peas": 30,
+    "ground beef": 30,
+    "ground lamb": 30,
+    "ground pork": 30,
+    "gruyere cheese": 30,
+    "ham": 30,
+    "honey": 30,
+    "idli rice": 30,
+    "jaggery": 30,
+    "jalapeno": 30,
+    "kidney beans": 30,
+    "lemon": 30,
+    "lemongrass": 30,
+    "lime": 30,
+    "mayonnaise": 30,
+    "mint": 30,
+    "mirin": 30,
+    "miso paste": 30,
+    "moong dal": 30,
+    "mozzarella": 30,
+    "mustard": 30,
+    "mustard greens": 30,
+    "mustard seeds": 30,
+    "mutton": 30,
+    "noodles": 30,
+    "nori": 30,
+    "olive": 30,
+    "olive oil": 30,
+    "oregano": 30,
+    "paprika": 30,
+    "parmesan": 30,
+    "parsley": 30,
+    "peanut butter": 30,
+    "peanuts": 30,
+    "pear": 30,
+    "peas": 30,
+    "pine nuts": 30,
+    "pita bread": 30,
+    "pizza dough": 30,
+    "pomegranate": 30,
+    "prawn": 30,
+    "red chilli": 30,
+    "refined flour": 30,
+    "rice flour": 30,
+    "rice noodles": 30,
+    "rice vinegar": 30,
+    "saffron": 30,
+    "salsa": 30,
+    "salt": 30,
+    "semolina": 30,
+    "sesame": 30,
+    "sesame oil": 30,
+    "sesame seeds": 30,
+    "shallot": 30,
+    "sherry vinegar": 30,
+    "short grain rice": 30,
+    "shrimp": 30,
+    "sichuan pepper": 30,
+    "soy sauce": 30,
+    "spaghetti": 30,
+    "spring onion": 30,
+    "spring roll wrappers": 30,
+    "sprouted moth beans": 30,
+    "sugar": 30,
+    "sushi rice": 30,
+    "sweet corn": 30,
+    "tahini": 30,
+    "tamarind": 30,
+    "tapioca pearls": 30,
+    "thyme": 30,
+    "tofu": 30,
+    "tomatillo": 30,
+    "toor dal": 30,
+    "turmeric": 30,
+    "urad dal": 30,
+    "vegetable stock": 30,
+    "wakame": 30,
+    "white pepper": 30,
+    "zucchini": 30,
+    "okra": 30,
+    "spring": 30,
+    "sweet": 30,
+    "corn": 30,
+    "broccoli": 30,
+    "beetroot": 30,
+    "radish": 30,
+    "turnip": 30,
+    "pumpkin": 30,
+    "bottle": 30,
+    "gourd": 30,
+    "ridge": 30,
+    "bitter": 30,
+    "snake": 30,
+    "ash": 30,
+    "green": 30,
+    "french": 30,
+    "cluster": 30,
+    "broad": 30,
+    "lima": 30,
+    "snow": 30,
+    "asparagus": 30,
+    "artichoke": 30,
+    "celery": 30,
+    "leek": 30,
+    "bulb": 30,
+    "kale": 30,
+    "collard": 30,
+    "greens": 30,
+    "swiss": 30,
+    "chard": 30,
+    "beet": 30,
+    "watercress": 30,
+    "arugula": 30,
+    "rocket": 30,
+    "bok": 30,
+    "choy": 30,
+    "napa": 30,
+    "red": 30,
+    "brussels": 30,
+    "sprouts": 30,
+    "hearts": 30,
+    "yam": 30,
+    "cassava": 30,
+    "taro": 30,
+    "colocasia": 30,
+    "plantain": 30,
+    "raw": 30,
+    "papaya": 30,
+    "mango": 30,
+    "jackfruit": 30,
+    "lotus": 30,
+    "root": 30,
+    "bamboo": 30,
+    "shoots": 30,
+    "water": 30,
+    "chestnut": 30,
+    "jicama": 30,
+    "parsnip": 30,
+    "rutabaga": 30,
+    "celeriac": 30,
+    "pearl": 30,
+    "white": 30,
+    "horseradish": 30,
+    "wasabi": 30,
+    "daikon": 30,
+    "kohlrabi": 30,
+    "chayote": 30,
+    "serrano": 30,
+    "poblano": 30,
+    "habanero": 30,
+    "thai": 30,
+    "bird": 30,
+    "eye": 30,
+    "pepper": 30,
+    "anaheim": 30,
+    "chipotle": 30,
+    "baby": 30,
+    "of": 30,
+    "palm": 30,
+    "shoot": 30,
+    "grapes": 30,
+    "watermelon": 30,
+    "muskmelon": 30,
+    "pineapple": 30,
+    "guava": 30,
+    "peach": 30,
+    "plum": 30,
+    "apricot": 30,
+    "nectarine": 30,
+    "kiwi": 30,
+    "strawberry": 30,
+    "blueberry": 30,
+    "raspberry": 30,
+    "blackberry": 30,
+    "cranberry": 30,
+    "cherry": 30,
+    "fig": 30,
+    "date": 30,
+    "raisin": 30,
+    "prune": 30,
+    "fruit": 30,
+    "passion": 30,
+    "dragon": 30,
+    "star": 30,
+    "lychee": 30,
+    "longan": 30,
+    "rambutan": 30,
+    "mangosteen": 30,
+    "durian": 30,
+    "persimmon": 30,
+    "grapefruit": 30,
+    "tangerine": 30,
+    "mandarin": 30,
+    "clementine": 30,
+    "pomelo": 30,
+    "kumquat": 30,
+    "gooseberry": 30,
+    "cape": 30,
+    "currant": 30,
+    "mulberry": 30,
+    "elderberry": 30,
+    "boysenberry": 30,
+    "soursop": 30,
+    "custard": 30,
+    "sapodilla": 30,
+    "chikoo": 30,
+    "amla": 30,
+    "indian": 30,
+    "jamun": 30,
+    "kokum": 30,
+    "wood": 30,
+    "bael": 30,
+    "breadfruit": 30,
+    "basmati": 30,
+    "jasmine": 30,
+    "brown": 30,
+    "sushi": 30,
+    "arborio": 30,
+    "short": 30,
+    "grain": 30,
+    "wild": 30,
+    "black": 30,
+    "dosa": 30,
+    "idli": 30,
+    "parboiled": 30,
+    "flattened": 30,
+    "puffed": 30,
+    "flakes": 30,
+    "vermicelli": 30,
+    "soba": 30,
+    "udon": 30,
+    "ramen": 30,
+    "macaroni": 30,
+    "penne": 30,
+    "fusilli": 30,
+    "farfalle": 30,
+    "linguine": 30,
+    "lasagna": 30,
+    "sheets": 30,
+    "couscous": 30,
+    "bulgur": 30,
+    "quinoa": 30,
+    "millet": 30,
+    "foxtail": 30,
+    "finger": 30,
+    "sorghum": 30,
+    "barley": 30,
+    "rolled": 30,
+    "steel": 30,
+    "cut": 30,
+    "buckwheat": 30,
+    "amaranth": 30,
+    "cornmeal": 30,
+    "polenta": 30,
+    "rye": 30,
+    "wheat": 30,
+    "whole": 30,
+    "all": 30,
+    "purpose": 30,
+    "refined": 30,
+    "chickpea": 30,
+    "starch": 30,
+    "tapioca": 30,
+    "arrowroot": 30,
+    "almond": 30,
+    "oat": 30,
+    "multigrain": 30,
+    "gram": 30,
+    "maida": 30,
+    "atta": 30,
+    "breadcrumbs": 30,
+    "panko": 30,
+    "tortillas": 30,
+    "tortilla": 30,
+    "pita": 30,
+    "naan": 30,
+    "roti": 30,
+    "chapati": 30,
+    "paratha": 30,
+    "kulcha": 30,
+    "focaccia": 30,
+    "pizza": 30,
+    "dough": 30,
+    "sourdough": 30,
+    "brioche": 30,
+    "burger": 30,
+    "bun": 30,
+    "bagel": 30,
+    "croissant": 30,
+    "toor": 30,
+    "dal": 30,
+    "moong": 30,
+    "yellow": 30,
+    "masoor": 30,
+    "lentils": 30,
+    "urad": 30,
+    "chana": 30,
+    "split": 30,
+    "kidney": 30,
+    "pinto": 30,
+    "navy": 30,
+    "cannellini": 30,
+    "mung": 30,
+    "adzuki": 30,
+    "fava": 30,
+    "soybeans": 30,
+    "edamame": 30,
+    "sprouted": 30,
+    "moth": 30,
+    "horse": 30,
+    "cowpeas": 30,
+    "pigeon": 30,
+    "eyed": 30,
+    "pistachio": 30,
+    "walnut": 30,
+    "pecan": 30,
+    "hazelnut": 30,
+    "macadamia": 30,
+    "brazil": 30,
+    "nuts": 30,
+    "pine": 30,
+    "chestnuts": 30,
+    "sunflower": 30,
+    "seeds": 30,
+    "chia": 30,
+    "flax": 30,
+    "hemp": 30,
+    "poppy": 30,
+    "nigella": 30,
+    "caraway": 30,
+    "ajwain": 30,
+    "melon": 30,
+    "fox": 30,
+    "makhana": 30,
+    "rock": 30,
+    "smoked": 30,
+    "cayenne": 30,
+    "chili": 30,
+    "powder": 30,
+    "garam": 30,
+    "masala": 30,
+    "curry": 30,
+    "cassia": 30,
+    "cloves": 30,
+    "nutmeg": 30,
+    "mace": 30,
+    "anise": 30,
+    "bay": 30,
+    "leaf": 30,
+    "leaves": 30,
+    "dill": 30,
+    "rosemary": 30,
+    "sage": 30,
+    "tarragon": 30,
+    "marjoram": 30,
+    "chives": 30,
+    "kaffir": 30,
+    "kasuri": 30,
+    "methi": 30,
+    "dried": 30,
+    "sumac": 30,
+    "zaatar": 30,
+    "allspice": 30,
+    "juniper": 30,
+    "berries": 30,
+    "asafoetida": 30,
+    "hing": 30,
+    "amchur": 30,
+    "chaat": 30,
+    "sambar": 30,
+    "rasam": 30,
+    "biryani": 30,
+    "pav": 30,
+    "bhaji": 30,
+    "tandoori": 30,
+    "kitchen": 30,
+    "king": 30,
+    "meat": 30,
+    "chai": 30,
+    "five": 30,
+    "spice": 30,
+    "sichuan": 30,
+    "gochugaru": 30,
+    "skim": 30,
+    "condensed": 30,
+    "evaporated": 30,
+    "buttermilk": 30,
+    "greek": 30,
+    "hung": 30,
+    "curd": 30,
+    "sour": 30,
+    "heavy": 30,
+    "whipping": 30,
+    "cultured": 30,
+    "clarified": 30,
+    "cottage": 30,
+    "cheddar": 30,
+    "gouda": 30,
+    "gruyere": 30,
+    "ricotta": 30,
+    "mascarpone": 30,
+    "blue": 30,
+    "brie": 30,
+    "camembert": 30,
+    "halloumi": 30,
+    "provolone": 30,
+    "processed": 30,
+    "curds": 30,
+    "kefir": 30,
+    "labneh": 30,
+    "breast": 30,
+    "thigh": 30
+  },
+  "all_ingredients": [
+    {
+      "id": "almonds",
+      "name": "almonds",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "apple",
+      "name": "apple",
+      "category": "fruit",
+      "shelf_life_days": 15
+    },
+    {
+      "id": "arborio_rice",
+      "name": "arborio rice",
+      "category": "grain",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "avocado",
+      "name": "avocado",
+      "category": "fruit",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "balsamic_vinegar",
+      "name": "balsamic vinegar",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "banana",
+      "name": "banana",
+      "category": "fruit",
+      "shelf_life_days": 5
+    },
+    {
+      "id": "basil",
+      "name": "basil",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "basmati_rice",
+      "name": "basmati rice",
+      "category": "grain",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "bean_sprouts",
+      "name": "bean sprouts",
+      "category": "vegetable",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "beans",
+      "name": "beans",
+      "category": "vegetable",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "bechamel",
+      "name": "bechamel",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "beef",
+      "name": "beef",
+      "category": "protein",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "bell_pepper",
+      "name": "bell pepper",
+      "category": "vegetable",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "black_beans",
+      "name": "black beans",
+      "category": "vegetable",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "black_gram",
+      "name": "black gram",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "black_pepper",
+      "name": "black pepper",
+      "category": "vegetable",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "bonito_flakes",
+      "name": "bonito flakes",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "bottle_gourd",
+      "name": "bottle gourd",
+      "category": "vegetable",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "bread",
+      "name": "bread",
+      "category": "grain",
+      "shelf_life_days": 4
+    },
+    {
+      "id": "butter",
+      "name": "butter",
+      "category": "dairy",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "cabbage",
+      "name": "cabbage",
+      "category": "vegetable",
+      "shelf_life_days": 10
+    },
+    {
+      "id": "capsicum",
+      "name": "capsicum",
+      "category": "vegetable",
+      "shelf_life_days": 8
+    },
+    {
+      "id": "cardamom",
+      "name": "cardamom",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "carrot",
+      "name": "carrot",
+      "category": "vegetable",
+      "shelf_life_days": 12
+    },
+    {
+      "id": "cashew",
+      "name": "cashew",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "cauliflower",
+      "name": "cauliflower",
+      "category": "vegetable",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "cheese",
+      "name": "cheese",
+      "category": "dairy",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "chia_seeds",
+      "name": "chia seeds",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "chicken",
+      "name": "chicken",
+      "category": "protein",
+      "shelf_life_days": 2
+    },
+    {
+      "id": "chicken_stock",
+      "name": "chicken stock",
+      "category": "protein",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "chickpea_flour",
+      "name": "chickpea flour",
+      "category": "grain",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "chickpeas",
+      "name": "chickpeas",
+      "category": "protein",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "chilli",
+      "name": "chilli",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "chilli_flakes",
+      "name": "chilli flakes",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "chilli_powder",
+      "name": "chilli powder",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "cilantro",
+      "name": "cilantro",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "cinnamon",
+      "name": "cinnamon",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "coconut",
+      "name": "coconut",
+      "category": "fruit",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "coconut_milk",
+      "name": "coconut milk",
+      "category": "dairy",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "coriander",
+      "name": "coriander",
+      "category": "other",
+      "shelf_life_days": 3
+    },
+    {
+      "id": "corn_flour",
+      "name": "corn flour",
+      "category": "grain",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "corn_starch",
+      "name": "corn starch",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "corn_tortilla",
+      "name": "corn tortilla",
+      "category": "grain",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "cream",
+      "name": "cream",
+      "category": "dairy",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "cucumber",
+      "name": "cucumber",
+      "category": "vegetable",
+      "shelf_life_days": 6
+    },
+    {
+      "id": "cumin",
+      "name": "cumin",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "curry_leaves",
+      "name": "curry leaves",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "dashi",
+      "name": "dashi",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "dosa_rice",
+      "name": "dosa rice",
+      "category": "grain",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "doubanjiang",
+      "name": "doubanjiang",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "drumstick",
+      "name": "drumstick",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "egg",
+      "name": "egg",
+      "category": "protein",
+      "shelf_life_days": 21
+    },
+    {
+      "id": "eggplant",
+      "name": "eggplant",
+      "category": "vegetable",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "farsan",
+      "name": "farsan",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "fennel",
+      "name": "fennel",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "fenugreek",
+      "name": "fenugreek",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "fenugreek_leaves",
+      "name": "fenugreek leaves",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "feta",
+      "name": "feta",
+      "category": "dairy",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "fish",
+      "name": "fish",
+      "category": "protein",
+      "shelf_life_days": 2
+    },
+    {
+      "id": "fish_sauce",
+      "name": "fish sauce",
+      "category": "protein",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "flattened_rice",
+      "name": "flattened rice",
+      "category": "grain",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "flour",
+      "name": "flour",
+      "category": "grain",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "flour_tortilla",
+      "name": "flour tortilla",
+      "category": "grain",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "fried_onion",
+      "name": "fried onion",
+      "category": "vegetable",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "galangal",
+      "name": "galangal",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "garam_masala",
+      "name": "garam masala",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "garlic",
+      "name": "garlic",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "ghee",
+      "name": "ghee",
+      "category": "dairy",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "ginger",
+      "name": "ginger",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "gochujang",
+      "name": "gochujang",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "green_beans",
+      "name": "green beans",
+      "category": "vegetable",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "green_chilli",
+      "name": "green chilli",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "green_curry_paste",
+      "name": "green curry paste",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "green_peas",
+      "name": "green peas",
+      "category": "vegetable",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "ground_beef",
+      "name": "ground beef",
+      "category": "protein",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "ground_lamb",
+      "name": "ground lamb",
+      "category": "protein",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "ground_pork",
+      "name": "ground pork",
+      "category": "protein",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "gruyere_cheese",
+      "name": "gruyere cheese",
+      "category": "dairy",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "ham",
+      "name": "ham",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "honey",
+      "name": "honey",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "idli_rice",
+      "name": "idli rice",
+      "category": "grain",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "jaggery",
+      "name": "jaggery",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "jalapeno",
+      "name": "jalapeno",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "kidney_beans",
+      "name": "kidney beans",
+      "category": "protein",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "lemon",
+      "name": "lemon",
+      "category": "fruit",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "lemongrass",
+      "name": "lemongrass",
+      "category": "fruit",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "lettuce",
+      "name": "lettuce",
+      "category": "vegetable",
+      "shelf_life_days": 4
+    },
+    {
+      "id": "lime",
+      "name": "lime",
+      "category": "fruit",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "mayonnaise",
+      "name": "mayonnaise",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "milk",
+      "name": "milk",
+      "category": "dairy",
+      "shelf_life_days": 3
+    },
+    {
+      "id": "mint",
+      "name": "mint",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "mirin",
+      "name": "mirin",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "miso_paste",
+      "name": "miso paste",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "moong_dal",
+      "name": "moong dal",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "mozzarella",
+      "name": "mozzarella",
+      "category": "dairy",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "mushroom",
+      "name": "mushroom",
+      "category": "vegetable",
+      "shelf_life_days": 4
+    },
+    {
+      "id": "mustard",
+      "name": "mustard",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "mustard_greens",
+      "name": "mustard greens",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "mustard_seeds",
+      "name": "mustard seeds",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "mutton",
+      "name": "mutton",
+      "category": "protein",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "noodles",
+      "name": "noodles",
+      "category": "grain",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "nori",
+      "name": "nori",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "oats",
+      "name": "oats",
+      "category": "grain",
+      "shelf_life_days": 180
+    },
+    {
+      "id": "oil",
+      "name": "oil",
+      "category": "other",
+      "shelf_life_days": 240
+    },
+    {
+      "id": "olive",
+      "name": "olive",
+      "category": "fruit",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "olive_oil",
+      "name": "olive oil",
+      "category": "fruit",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "onion",
+      "name": "onion",
+      "category": "vegetable",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "orange",
+      "name": "orange",
+      "category": "fruit",
+      "shelf_life_days": 12
+    },
+    {
+      "id": "oregano",
+      "name": "oregano",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "paneer",
+      "name": "paneer",
+      "category": "protein",
+      "shelf_life_days": 5
+    },
+    {
+      "id": "paprika",
+      "name": "paprika",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "parmesan",
+      "name": "parmesan",
+      "category": "dairy",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "parsley",
+      "name": "parsley",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "pasta",
+      "name": "pasta",
+      "category": "grain",
+      "shelf_life_days": 240
+    },
+    {
+      "id": "peanut_butter",
+      "name": "peanut butter",
+      "category": "dairy",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "peanuts",
+      "name": "peanuts",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "pear",
+      "name": "pear",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "peas",
+      "name": "peas",
+      "category": "vegetable",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "pine_nuts",
+      "name": "pine nuts",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "pita_bread",
+      "name": "pita bread",
+      "category": "grain",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "pizza_dough",
+      "name": "pizza dough",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "pomegranate",
+      "name": "pomegranate",
+      "category": "fruit",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "potato",
+      "name": "potato",
+      "category": "vegetable",
+      "shelf_life_days": 25
+    },
+    {
+      "id": "prawn",
+      "name": "prawn",
+      "category": "protein",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "red_chilli",
+      "name": "red chilli",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "refined_flour",
+      "name": "refined flour",
+      "category": "grain",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "rice",
+      "name": "rice",
+      "category": "grain",
+      "shelf_life_days": 180
+    },
+    {
+      "id": "rice_flour",
+      "name": "rice flour",
+      "category": "grain",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "rice_noodles",
+      "name": "rice noodles",
+      "category": "grain",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "rice_vinegar",
+      "name": "rice vinegar",
+      "category": "grain",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "saffron",
+      "name": "saffron",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "salsa",
+      "name": "salsa",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "salt",
+      "name": "salt",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "semolina",
+      "name": "semolina",
+      "category": "grain",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "sesame",
+      "name": "sesame",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "sesame_oil",
+      "name": "sesame oil",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "sesame_seeds",
+      "name": "sesame seeds",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "shallot",
+      "name": "shallot",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "sherry_vinegar",
+      "name": "sherry vinegar",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "short_grain_rice",
+      "name": "short grain rice",
+      "category": "grain",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "shrimp",
+      "name": "shrimp",
+      "category": "protein",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "sichuan_pepper",
+      "name": "sichuan pepper",
+      "category": "vegetable",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "soy_sauce",
+      "name": "soy sauce",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "spaghetti",
+      "name": "spaghetti",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "spinach",
+      "name": "spinach",
+      "category": "vegetable",
+      "shelf_life_days": 3
+    },
+    {
+      "id": "spring_onion",
+      "name": "spring onion",
+      "category": "vegetable",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "spring_roll_wrappers",
+      "name": "spring roll wrappers",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "sprouted_moth_beans",
+      "name": "sprouted moth beans",
+      "category": "vegetable",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "sugar",
+      "name": "sugar",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "sushi_rice",
+      "name": "sushi rice",
+      "category": "grain",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "sweet_corn",
+      "name": "sweet corn",
+      "category": "vegetable",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "tahini",
+      "name": "tahini",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "tamarind",
+      "name": "tamarind",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "tapioca_pearls",
+      "name": "tapioca pearls",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "thyme",
+      "name": "thyme",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "tofu",
+      "name": "tofu",
+      "category": "protein",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "tomatillo",
+      "name": "tomatillo",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "tomato",
+      "name": "tomato",
+      "category": "vegetable",
+      "shelf_life_days": 6
+    },
+    {
+      "id": "toor_dal",
+      "name": "toor dal",
+      "category": "protein",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "turmeric",
+      "name": "turmeric",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "urad_dal",
+      "name": "urad dal",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "vegetable_stock",
+      "name": "vegetable stock",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "wakame",
+      "name": "wakame",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "wheat_flour",
+      "name": "wheat flour",
+      "category": "grain",
+      "shelf_life_days": 120
+    },
+    {
+      "id": "white_pepper",
+      "name": "white pepper",
+      "category": "vegetable",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "yogurt",
+      "name": "yogurt",
+      "category": "dairy",
+      "shelf_life_days": 6
+    },
+    {
+      "id": "zucchini",
+      "name": "zucchini",
+      "category": "vegetable",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "okra",
+      "name": "okra",
+      "category": "vegetable",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "spring",
+      "name": "spring",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "sweet",
+      "name": "sweet",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "corn",
+      "name": "corn",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "broccoli",
+      "name": "broccoli",
+      "category": "vegetable",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "beetroot",
+      "name": "beetroot",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "radish",
+      "name": "radish",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "turnip",
+      "name": "turnip",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "pumpkin",
+      "name": "pumpkin",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "bottle",
+      "name": "bottle",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "gourd",
+      "name": "gourd",
+      "category": "vegetable",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "ridge",
+      "name": "ridge",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "bitter",
+      "name": "bitter",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "snake",
+      "name": "snake",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "ash",
+      "name": "ash",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "green",
+      "name": "green",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "french",
+      "name": "french",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "cluster",
+      "name": "cluster",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "broad",
+      "name": "broad",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "lima",
+      "name": "lima",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "snow",
+      "name": "snow",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "asparagus",
+      "name": "asparagus",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "artichoke",
+      "name": "artichoke",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "celery",
+      "name": "celery",
+      "category": "vegetable",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "leek",
+      "name": "leek",
+      "category": "vegetable",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "bulb",
+      "name": "bulb",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "kale",
+      "name": "kale",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "collard",
+      "name": "collard",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "greens",
+      "name": "greens",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "swiss",
+      "name": "swiss",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "chard",
+      "name": "chard",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "beet",
+      "name": "beet",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "watercress",
+      "name": "watercress",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "arugula",
+      "name": "arugula",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "rocket",
+      "name": "rocket",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "bok",
+      "name": "bok",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "choy",
+      "name": "choy",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "napa",
+      "name": "napa",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "red",
+      "name": "red",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "brussels",
+      "name": "brussels",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "sprouts",
+      "name": "sprouts",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "hearts",
+      "name": "hearts",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "yam",
+      "name": "yam",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "cassava",
+      "name": "cassava",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "taro",
+      "name": "taro",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "colocasia",
+      "name": "colocasia",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "plantain",
+      "name": "plantain",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "raw",
+      "name": "raw",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "papaya",
+      "name": "papaya",
+      "category": "fruit",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "mango",
+      "name": "mango",
+      "category": "fruit",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "jackfruit",
+      "name": "jackfruit",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "lotus",
+      "name": "lotus",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "root",
+      "name": "root",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "bamboo",
+      "name": "bamboo",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "shoots",
+      "name": "shoots",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "water",
+      "name": "water",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "chestnut",
+      "name": "chestnut",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "jicama",
+      "name": "jicama",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "parsnip",
+      "name": "parsnip",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "rutabaga",
+      "name": "rutabaga",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "celeriac",
+      "name": "celeriac",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "pearl",
+      "name": "pearl",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "white",
+      "name": "white",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "horseradish",
+      "name": "horseradish",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "wasabi",
+      "name": "wasabi",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "daikon",
+      "name": "daikon",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "kohlrabi",
+      "name": "kohlrabi",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "chayote",
+      "name": "chayote",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "serrano",
+      "name": "serrano",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "poblano",
+      "name": "poblano",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "habanero",
+      "name": "habanero",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "thai",
+      "name": "thai",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "bird",
+      "name": "bird",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "eye",
+      "name": "eye",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "pepper",
+      "name": "pepper",
+      "category": "vegetable",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "anaheim",
+      "name": "anaheim",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "chipotle",
+      "name": "chipotle",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "baby",
+      "name": "baby",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "of",
+      "name": "of",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "palm",
+      "name": "palm",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "shoot",
+      "name": "shoot",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "grapes",
+      "name": "grapes",
+      "category": "fruit",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "watermelon",
+      "name": "watermelon",
+      "category": "fruit",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "muskmelon",
+      "name": "muskmelon",
+      "category": "fruit",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "pineapple",
+      "name": "pineapple",
+      "category": "fruit",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "guava",
+      "name": "guava",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "peach",
+      "name": "peach",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "plum",
+      "name": "plum",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "apricot",
+      "name": "apricot",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "nectarine",
+      "name": "nectarine",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "kiwi",
+      "name": "kiwi",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "strawberry",
+      "name": "strawberry",
+      "category": "fruit",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "blueberry",
+      "name": "blueberry",
+      "category": "fruit",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "raspberry",
+      "name": "raspberry",
+      "category": "fruit",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "blackberry",
+      "name": "blackberry",
+      "category": "fruit",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "cranberry",
+      "name": "cranberry",
+      "category": "fruit",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "cherry",
+      "name": "cherry",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "fig",
+      "name": "fig",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "date",
+      "name": "date",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "raisin",
+      "name": "raisin",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "prune",
+      "name": "prune",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "fruit",
+      "name": "fruit",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "passion",
+      "name": "passion",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "dragon",
+      "name": "dragon",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "star",
+      "name": "star",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "lychee",
+      "name": "lychee",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "longan",
+      "name": "longan",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "rambutan",
+      "name": "rambutan",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "mangosteen",
+      "name": "mangosteen",
+      "category": "fruit",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "durian",
+      "name": "durian",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "persimmon",
+      "name": "persimmon",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "grapefruit",
+      "name": "grapefruit",
+      "category": "fruit",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "tangerine",
+      "name": "tangerine",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "mandarin",
+      "name": "mandarin",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "clementine",
+      "name": "clementine",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "pomelo",
+      "name": "pomelo",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "kumquat",
+      "name": "kumquat",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "gooseberry",
+      "name": "gooseberry",
+      "category": "fruit",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "cape",
+      "name": "cape",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "currant",
+      "name": "currant",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "mulberry",
+      "name": "mulberry",
+      "category": "fruit",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "elderberry",
+      "name": "elderberry",
+      "category": "fruit",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "boysenberry",
+      "name": "boysenberry",
+      "category": "fruit",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "soursop",
+      "name": "soursop",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "custard",
+      "name": "custard",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "sapodilla",
+      "name": "sapodilla",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "chikoo",
+      "name": "chikoo",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "amla",
+      "name": "amla",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "indian",
+      "name": "indian",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "jamun",
+      "name": "jamun",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "kokum",
+      "name": "kokum",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "wood",
+      "name": "wood",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "bael",
+      "name": "bael",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "breadfruit",
+      "name": "breadfruit",
+      "category": "grain",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "basmati",
+      "name": "basmati",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "jasmine",
+      "name": "jasmine",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "brown",
+      "name": "brown",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "sushi",
+      "name": "sushi",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "arborio",
+      "name": "arborio",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "short",
+      "name": "short",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "grain",
+      "name": "grain",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "wild",
+      "name": "wild",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "black",
+      "name": "black",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "dosa",
+      "name": "dosa",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "idli",
+      "name": "idli",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "parboiled",
+      "name": "parboiled",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "flattened",
+      "name": "flattened",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "puffed",
+      "name": "puffed",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "flakes",
+      "name": "flakes",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "vermicelli",
+      "name": "vermicelli",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "soba",
+      "name": "soba",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "udon",
+      "name": "udon",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "ramen",
+      "name": "ramen",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "macaroni",
+      "name": "macaroni",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "penne",
+      "name": "penne",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "fusilli",
+      "name": "fusilli",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "farfalle",
+      "name": "farfalle",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "linguine",
+      "name": "linguine",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "lasagna",
+      "name": "lasagna",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "sheets",
+      "name": "sheets",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "couscous",
+      "name": "couscous",
+      "category": "grain",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "bulgur",
+      "name": "bulgur",
+      "category": "grain",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "quinoa",
+      "name": "quinoa",
+      "category": "grain",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "millet",
+      "name": "millet",
+      "category": "grain",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "foxtail",
+      "name": "foxtail",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "finger",
+      "name": "finger",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "sorghum",
+      "name": "sorghum",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "barley",
+      "name": "barley",
+      "category": "grain",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "rolled",
+      "name": "rolled",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "steel",
+      "name": "steel",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "cut",
+      "name": "cut",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "buckwheat",
+      "name": "buckwheat",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "amaranth",
+      "name": "amaranth",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "cornmeal",
+      "name": "cornmeal",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "polenta",
+      "name": "polenta",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "rye",
+      "name": "rye",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "wheat",
+      "name": "wheat",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "whole",
+      "name": "whole",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "all",
+      "name": "all",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "purpose",
+      "name": "purpose",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "refined",
+      "name": "refined",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "chickpea",
+      "name": "chickpea",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "starch",
+      "name": "starch",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "tapioca",
+      "name": "tapioca",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "arrowroot",
+      "name": "arrowroot",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "almond",
+      "name": "almond",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "oat",
+      "name": "oat",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "multigrain",
+      "name": "multigrain",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "gram",
+      "name": "gram",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "maida",
+      "name": "maida",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "atta",
+      "name": "atta",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "breadcrumbs",
+      "name": "breadcrumbs",
+      "category": "grain",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "panko",
+      "name": "panko",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "tortillas",
+      "name": "tortillas",
+      "category": "grain",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "tortilla",
+      "name": "tortilla",
+      "category": "grain",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "pita",
+      "name": "pita",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "naan",
+      "name": "naan",
+      "category": "grain",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "roti",
+      "name": "roti",
+      "category": "grain",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "chapati",
+      "name": "chapati",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "paratha",
+      "name": "paratha",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "kulcha",
+      "name": "kulcha",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "focaccia",
+      "name": "focaccia",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "pizza",
+      "name": "pizza",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "dough",
+      "name": "dough",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "sourdough",
+      "name": "sourdough",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "brioche",
+      "name": "brioche",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "burger",
+      "name": "burger",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "bun",
+      "name": "bun",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "bagel",
+      "name": "bagel",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "croissant",
+      "name": "croissant",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "toor",
+      "name": "toor",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "dal",
+      "name": "dal",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "moong",
+      "name": "moong",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "yellow",
+      "name": "yellow",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "masoor",
+      "name": "masoor",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "lentils",
+      "name": "lentils",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "urad",
+      "name": "urad",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "chana",
+      "name": "chana",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "split",
+      "name": "split",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "kidney",
+      "name": "kidney",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "pinto",
+      "name": "pinto",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "navy",
+      "name": "navy",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "cannellini",
+      "name": "cannellini",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "mung",
+      "name": "mung",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "adzuki",
+      "name": "adzuki",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "fava",
+      "name": "fava",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "soybeans",
+      "name": "soybeans",
+      "category": "vegetable",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "edamame",
+      "name": "edamame",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "sprouted",
+      "name": "sprouted",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "moth",
+      "name": "moth",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "horse",
+      "name": "horse",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "cowpeas",
+      "name": "cowpeas",
+      "category": "vegetable",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "pigeon",
+      "name": "pigeon",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "eyed",
+      "name": "eyed",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "pistachio",
+      "name": "pistachio",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "walnut",
+      "name": "walnut",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "pecan",
+      "name": "pecan",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "hazelnut",
+      "name": "hazelnut",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "macadamia",
+      "name": "macadamia",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "brazil",
+      "name": "brazil",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "nuts",
+      "name": "nuts",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "pine",
+      "name": "pine",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "chestnuts",
+      "name": "chestnuts",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "sunflower",
+      "name": "sunflower",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "seeds",
+      "name": "seeds",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "chia",
+      "name": "chia",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "flax",
+      "name": "flax",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "hemp",
+      "name": "hemp",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "poppy",
+      "name": "poppy",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "nigella",
+      "name": "nigella",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "caraway",
+      "name": "caraway",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "ajwain",
+      "name": "ajwain",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "melon",
+      "name": "melon",
+      "category": "fruit",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "fox",
+      "name": "fox",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "makhana",
+      "name": "makhana",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "rock",
+      "name": "rock",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "smoked",
+      "name": "smoked",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "cayenne",
+      "name": "cayenne",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "chili",
+      "name": "chili",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "powder",
+      "name": "powder",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "garam",
+      "name": "garam",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "masala",
+      "name": "masala",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "curry",
+      "name": "curry",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "cassia",
+      "name": "cassia",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "cloves",
+      "name": "cloves",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "nutmeg",
+      "name": "nutmeg",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "mace",
+      "name": "mace",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "anise",
+      "name": "anise",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "bay",
+      "name": "bay",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "leaf",
+      "name": "leaf",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "leaves",
+      "name": "leaves",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "dill",
+      "name": "dill",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "rosemary",
+      "name": "rosemary",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "sage",
+      "name": "sage",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "tarragon",
+      "name": "tarragon",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "marjoram",
+      "name": "marjoram",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "chives",
+      "name": "chives",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "kaffir",
+      "name": "kaffir",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "kasuri",
+      "name": "kasuri",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "methi",
+      "name": "methi",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "dried",
+      "name": "dried",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "sumac",
+      "name": "sumac",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "zaatar",
+      "name": "zaatar",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "allspice",
+      "name": "allspice",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "juniper",
+      "name": "juniper",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "berries",
+      "name": "berries",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "asafoetida",
+      "name": "asafoetida",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "hing",
+      "name": "hing",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "amchur",
+      "name": "amchur",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "chaat",
+      "name": "chaat",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "sambar",
+      "name": "sambar",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "rasam",
+      "name": "rasam",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "biryani",
+      "name": "biryani",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "pav",
+      "name": "pav",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "bhaji",
+      "name": "bhaji",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "tandoori",
+      "name": "tandoori",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "kitchen",
+      "name": "kitchen",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "king",
+      "name": "king",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "meat",
+      "name": "meat",
+      "category": "protein",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "chai",
+      "name": "chai",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "five",
+      "name": "five",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "spice",
+      "name": "spice",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "sichuan",
+      "name": "sichuan",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "gochugaru",
+      "name": "gochugaru",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "skim",
+      "name": "skim",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "condensed",
+      "name": "condensed",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "evaporated",
+      "name": "evaporated",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "buttermilk",
+      "name": "buttermilk",
+      "category": "dairy",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "greek",
+      "name": "greek",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "hung",
+      "name": "hung",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "curd",
+      "name": "curd",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "sour",
+      "name": "sour",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "heavy",
+      "name": "heavy",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "whipping",
+      "name": "whipping",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "cultured",
+      "name": "cultured",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "clarified",
+      "name": "clarified",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "cottage",
+      "name": "cottage",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "cheddar",
+      "name": "cheddar",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "gouda",
+      "name": "gouda",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "gruyere",
+      "name": "gruyere",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "ricotta",
+      "name": "ricotta",
+      "category": "dairy",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "mascarpone",
+      "name": "mascarpone",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "blue",
+      "name": "blue",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "brie",
+      "name": "brie",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "camembert",
+      "name": "camembert",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "halloumi",
+      "name": "halloumi",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "provolone",
+      "name": "provolone",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "processed",
+      "name": "processed",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "curds",
+      "name": "curds",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "kefir",
+      "name": "kefir",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "labneh",
+      "name": "labneh",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "breast",
+      "name": "breast",
+      "category": "other",
+      "shelf_life_days": 30
+    },
+    {
+      "id": "thigh",
+      "name": "thigh",
+      "category": "other",
+      "shelf_life_days": 30
+    }
+  ]
+}

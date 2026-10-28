@@ -1,0 +1,11 @@
+# Core backend
+Flask==3.0.3
+flask-cors==4.0.1
+gunicorn==22.0.0
+python-dotenv>=1.0.1
+firebase-admin>=6.9.0
+
+# Optional: server-side YOLO detection.
+# Skip these two lines if browser-only detection is enough.
+ultralytics==8.3.0
+pillow==10.4.0
